@@ -1,4 +1,3 @@
-
 # Brain Stroke Identification System
 
 An AI-powered system for automated brain stroke detection from MRI scan images using deep learning and machine learning techniques.
